@@ -1,3 +1,5 @@
+##updated
+
 num_1 = int(input("Please enter a number: "))
 k = 2
 
